@@ -57,3 +57,15 @@ Bash
 pip install jupyterlab
 jupyter lab
 ```
+##⚠️ Note on Large Model Files
+Due to GitHub's file size limits, large pre-trained weights and model checkpoints (over 50MB) are tracked via Git LFS (Large File Storage) or hosted externally.
+
+If a model file is missing locally, you can download it from your team's cloud storage and place it inside the models/ folder.
+
+##🤝 Team Members (AI/ML Roster)
+Cholid Muntaha (@CholidMuntaha) - AI Engineer
+
+Aprizal (@CAC-07) - AI Engineer
+
+##📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
