@@ -29,12 +29,13 @@ Make sure you have Python 3.9+ installed on your local machine.
 
 Installation & Setup
 Clone this repository:
-
+```text
 Bash
 git clone [https://github.com/SnapBudget-AI-Financial-Tracker/snapbudget-backend-ai.git](https://github.com/SnapBudget-AI-Financial-Tracker/snapbudget-backend-ai.git)
 cd snapbudget-backend-ai
+```
 Create and activate a virtual environment:
-
+```text
 Bash
 # Windows (PowerShell)
 python -m venv venv
@@ -43,13 +44,16 @@ python -m venv venv
 # Linux / MacOS
 python3 -m venv venv
 source venv/bin/activate
+```
 Install dependencies:
-
+```text
 Bash
 pip install -r requirements.txt
-🧠 Model Training & Development
+```
+# 🧠 Model Training & Development
 To explore or retrain the models, navigate to the notebooks/ directory and open the files using Jupyter Lab or Notebook:
-
+```text
 Bash
 pip install jupyterlab
 jupyter lab
+```
