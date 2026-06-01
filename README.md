@@ -63,9 +63,9 @@ Due to GitHub's file size limits, large pre-trained weights and model checkpoint
 If a model file is missing locally, you can download it from your team's cloud storage and place it inside the models/ folder.
 
 ##🤝 Team Members (AI/ML Roster)
-Cholid Muntaha (@CholidMuntaha) - AI Engineer
 
-Aprizal (@CAC-07) - AI Engineer
+* **Cholid Muntaha (@CholidMuntaha) - AI Engineer
+* **Aprizal (@CAC-07) - AI Engineer
 
 ##📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
