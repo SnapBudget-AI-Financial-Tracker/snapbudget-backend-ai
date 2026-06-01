@@ -64,8 +64,8 @@ If a model file is missing locally, you can download it from your team's cloud s
 
 ##🤝 Team Members (AI/ML Roster)
 
-* **Cholid Muntaha (@CholidMuntaha) - AI Engineer
-* **Aprizal (@CAC-07) - AI Engineer
+* Cholid Muntaha (@CholidMuntaha) - AI Engineer
+* Aprizal (@CAC-07) - AI Engineer
 
 ##📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
