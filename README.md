@@ -20,6 +20,7 @@ Welcome to the AI and Machine Learning repository for **SnapBudget**. This repos
 ├── Head2/          # GRU and MLP Training Model to predicts user spending for the next 7 days based on the past 30 days of transaction history. 
 ├── Head3/             # BiLSTM Training Model
 └── README.md           # Project documentation
+└── requirements.txt
 ```
 
 ## 🛠️ Getting Started
