@@ -1,4 +1,4 @@
-# SnapBudget: AI & Machine Learning Backend
+# SnapBudget: AI & Machine Learning
 
 Welcome to the AI and Machine Learning repository for **SnapBudget**. This repository contains the training notebooks, dataset preprocessing scripts, and saved model weights used to power the intelligent financial tracking features of SnapBudget, such as automated receipt scanning (OCR), expense extraction, and smart budget forecasting.
 
