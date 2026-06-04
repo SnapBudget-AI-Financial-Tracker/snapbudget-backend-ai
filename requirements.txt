@@ -1,0 +1,18 @@
+# Core Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision
+transformers>=4.35.0
+datasets
+sentencepiece
+donut-python
+tensorflow>=2.15.0
+
+# Data Science & Analytics
+numpy
+pandas
+scikit-learn
+
+# Visualization & Image Processing
+matplotlib
+Pillow
+tqdm
