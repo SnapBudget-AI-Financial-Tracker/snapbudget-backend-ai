@@ -7,11 +7,6 @@ sentencepiece
 donut-python
 tensorflow>=2.15.0
 
-# Data Science & Analytics
-numpy
-pandas
-scikit-learn
-
 # Visualization & Image Processing
 matplotlib
 Pillow
